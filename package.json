@@ -1,0 +1,8 @@
+{
+  "name": "mdev1012-m2023-week3",
+  "version": "0.0.1",
+  "description": "Demo site for MDEV1012 in the Summer 2023 semester at Georgian",
+  "main": "index.js",
+  "author": "Tom Tsiliopoulos",
+  "license": "MIT"
+}
